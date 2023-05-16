@@ -3,7 +3,7 @@
 ## Information Technology Projects:
 
 **Microsoft Azure**
-  * [VPN Environment, Setup and Usage (ProtonVPN Software)](https://github.com/cgreene200/vpn-environ-)
+  * [VPN Environment, Setup and Usage (ProtonVPN Software)](https://github.com/cgreene200/vpn-environ-setup)
   * [Network Security (Inspecting Network Traffic via Wireshark)](https://github.com/cgreene200/network-security)
   * [Configuring Active Directory within Azure VM's](https://github.com/cgreene200/configure-active-direct)
 
