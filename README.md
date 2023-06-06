@@ -8,6 +8,6 @@
   * [Configuring Active Directory within Azure VM's](https://github.com/cgreene200/configure-active-direct)
 
 **osTicket (Help Desk Ticketing System)**
-  * osTicket: Prerequisites and Installation
+  * [osTicket: Prerequisites and Installation](https://github.com/cgreene200/osTicket-Prerequisites-and-Installation.git)
   * osTicket: Post-Installation Configuration
   * osTicket: Ticket Lifecycle Examples
