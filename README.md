@@ -5,7 +5,7 @@
 **Microsoft Azure**
   * [VPN Environment, Setup and Usage (ProtonVPN Software)](https://github.com/cgreene200/vpn-environ-setup)
   * [Network Security (Inspecting Network Traffic via Wireshark)](https://github.com/cgreene200/network-security)
-  * [Configuring Active Directory within Azure VM's](https://github.com/cgreene200/configure-active-direct)
+  * Configuring Active Directory within Azure VM's
 
 **osTicket (Help Desk Ticketing System)**
   * [osTicket: Prerequisites and Installation](https://github.com/cgreene200/osTicket-Prerequisites-and-Installation.git)
