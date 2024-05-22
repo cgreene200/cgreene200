@@ -1,6 +1,6 @@
 # Hi, I'm Carole, an IT Professional
 
-## Information Technology Projects:
+## Information Technology Projects Created in Course Careers:
 
 **All Projects Created Using Microsoft Azure**
   * [VPN Environment, Setup and Usage (ProtonVPN Software)](https://github.com/cgreene200/vpn-environ-setup)
